@@ -1,5 +1,14 @@
 # Simulasi Algoritma Hybrid Cloud Task Scheduling (Kelompok 8 SOKA)
 
+### Anggota
+| Nama | NRP |
+|---|---|
+|Rizqi Akbar|5027241044|
+|M. Farrel Rafli|5027241075|
+|M. Abyan Ranuaji|5027241106|
+|Yasykur Khalis J.M.|5027241112|
+|M. Arkan Zahir|5027241120|
+
 Proyek ini merupakan implementasi dan evaluasi komparatif algoritma penjadwalan komputasi awan *hybrid* berbasis **CloudSim 3.0.3**:
 1. **Hybrid Max-Min + Ant Colony Optimization (ACO)** *(Kandidat Utama)*
 2. **Hybrid Min-Min + Genetic Algorithm (GA)** *(Kandidat Pembanding)*
